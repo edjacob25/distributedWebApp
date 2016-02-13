@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5544be40-139c-431a-a904-74be59bd97cb" name="Default" comment="" />
+    <list default="true" id="5544be40-139c-431a-a904-74be59bd97cb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/communication.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/www" afterPath="$PROJECT_DIR$/bin/www" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/cleancss" afterPath="$PROJECT_DIR$/node_modules/.bin/cleancss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/jade" afterPath="$PROJECT_DIR$/node_modules/.bin/jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/mime" afterPath="$PROJECT_DIR$/node_modules/.bin/mime" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp" afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/acorn/bin/acorn" afterPath="$PROJECT_DIR$/node_modules/acorn/bin/acorn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/acorn/bin/update_authors.sh" afterPath="$PROJECT_DIR$/node_modules/acorn/bin/update_authors.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/async/lib/async.js" afterPath="$PROJECT_DIR$/node_modules/async/lib/async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/clean-css/bin/cleancss" afterPath="$PROJECT_DIR$/node_modules/clean-css/bin/cleancss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/jade/bin/jade.js" afterPath="$PROJECT_DIR$/node_modules/jade/bin/jade.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mime/cli.js" afterPath="$PROJECT_DIR$/node_modules/mime/cli.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/mkdirp/bin/cmd.js" afterPath="$PROJECT_DIR$/node_modules/mkdirp/bin/cmd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/optimist/test/_/bin.js" afterPath="$PROJECT_DIR$/node_modules/optimist/test/_/bin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/transformers/node_modules/.bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/transformers/node_modules/.bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/transformers/node_modules/source-map/test/run-tests.js" afterPath="$PROJECT_DIR$/node_modules/transformers/node_modules/source-map/test/run-tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/transformers/node_modules/uglify-js/bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/transformers/node_modules/uglify-js/bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/transformers/node_modules/uglify-js/test/run-tests.js" afterPath="$PROJECT_DIR$/node_modules/transformers/node_modules/uglify-js/test/run-tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uglify-js/bin/extract-props.js" afterPath="$PROJECT_DIR$/node_modules/uglify-js/bin/extract-props.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/uglify-js/bin/uglifyjs" afterPath="$PROJECT_DIR$/node_modules/uglify-js/bin/uglifyjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/with/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/node_modules/with/node_modules/.bin/acorn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/bin/acorn" afterPath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/bin/acorn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/bin/prepublish.sh" afterPath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/bin/prepublish.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/bin/update_authors.sh" afterPath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/bin/update_authors.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/bin/without_eval" afterPath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/bin/without_eval" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/src/expression.js" afterPath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/src/expression.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/src/location.js" afterPath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/src/location.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/src/lval.js" afterPath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/src/lval.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/src/node.js" afterPath="$PROJECT_DIR$/node_modules/with/node_modules/acorn/src/node.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/routes.js" afterPath="$PROJECT_DIR$/routes/routes.js" />
+    </list>
     <ignored path="middleware.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,12 +54,34 @@
     <favorites_list name="middleware" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="routes.js" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18610422">
-              <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="communication.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/communication.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23068893">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="www" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -46,7 +102,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.8">
+            <state vertical-scroll-proportion="0.0">
               <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
               <folding />
             </state>
@@ -62,6 +118,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -69,7 +129,9 @@
         <option value="$PROJECT_DIR$/bin/www" />
         <option value="$PROJECT_DIR$/modules/cart.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/modules/Communication.js" />
         <option value="$PROJECT_DIR$/routes/routes.js" />
+        <option value="$PROJECT_DIR$/modules/communication.js" />
       </list>
     </option>
   </component>
@@ -81,12 +143,12 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="26" />
-    <option name="width" value="1362" />
-    <option name="height" value="743" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -112,7 +174,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,6 +236,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,9 +245,10 @@
     <property name="javascript.nodejs.core.library.configured.version" value="5.6.0" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="Node.Profiling.V8Profiler.Path" value="/usr/lib/node_modules/v8-profiler" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Cosas portables/cmder/vendor/msysgit/bin/git.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -217,6 +280,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -255,26 +323,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="26" width="1362" height="743" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39906833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39906833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -293,9 +361,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/communication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bin/www">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56079406">
+        <state vertical-scroll-proportion="0.0">
           <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
           <folding />
         </state>
@@ -313,7 +399,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.8">
+        <state vertical-scroll-proportion="0.0">
           <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
           <folding />
         </state>
@@ -321,9 +407,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18610422">
-          <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/communication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23068893">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

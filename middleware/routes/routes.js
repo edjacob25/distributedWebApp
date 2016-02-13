@@ -1,4 +1,5 @@
-var algo = require('../modules/cart');
+var cart = require('../modules/cart');
+var comm = require('../modules/communication');
 var express = require('express');
 var router = express.Router();
 var APIKEY = "123456hola";
@@ -10,17 +11,14 @@ router.get('/', function(req, res, next) {
 
 
 router.post('/login', function(req, res, next) {
-  var result = "API_KEY_FAIL";
-  if (req.body.key === APIKEY ){
-    if (Math.random() < 0.5)
-      result = "true";
-    else
-      result = "false";
-  }
-  console.log(req.body.user);
-  console.log(req.body.pass);
-  console.log(result);
-  res.json({result: result});
+    if (req.body.key === APIKEY ) {
+        comm.login(req.body.user, req.body.pass, function(resp){
+            res.json({result: resp});
+        });
+    }
+    else{
+        res.json({result: "API_KEY_FAIL"});
+    }
 });
 
 
