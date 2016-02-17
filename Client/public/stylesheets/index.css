@@ -1,8 +1,31 @@
 body{
     background-color: white;
+    margin: 0px;
+    padding: 0px;
 }
 
-
-.label{
+.menu_section{
+    display: block;
+    width:100%;
+    border: 1px solid;
     color: #000 !important;
+    display: inline-block;
+}
+
+.menu_section .nav_container{
+    display: inline-block;
+    line-height: 15px;
+    width:100%;
+    text-align: right;
+}
+
+.menu_section .nav_container ul{
+
+}
+
+.menu_section .nav_container ul li{
+    display: inline-block;
+    margin-right:30px;
+    letter-spacing:2px;
+    font-size: 15px;
 }

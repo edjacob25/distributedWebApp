@@ -1,0 +1,27 @@
+html
+    head
+
+        title= "Buy IT"
+        link(rel='stylesheet', href='../stylesheets/index.css')
+
+    body
+        block menu
+            section.menu_section
+                div.nav_container
+                   nav
+                      ul
+                        li
+                          a(href="/") Home
+                        if !showLogged
+                          li
+                            a(href="/register") Sign In
+                          li
+                            a(href="/login") Login
+                        if showLogged
+                          li
+                            a(href = "/cart/getCart")
+                              = "Cart"
+                          li
+                            a(href = "/login/logout")
+                              = "Logout"
+        block content
