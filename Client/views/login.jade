@@ -1,0 +1,12 @@
+extends header-menu
+
+block content
+    form.loginForm(method="post", action="login/checkLogin")
+        div
+            span User:
+            input(type="text", name="user")
+        div
+            span Password:
+            input(type="password", name="pass")
+        div
+            input(type="submit", value="submit")

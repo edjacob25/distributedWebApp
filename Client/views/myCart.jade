@@ -1,0 +1,19 @@
+//
+   Created by oscar on 15/02/16.
+extends header-menu
+
+block content
+    -products = productArray
+    - var count = 0
+    table
+        each product in products
+            if count % 3 == 0
+                tr
+            td
+                div
+                    h4 #{product.productName}
+                    img(src=product.image)
+                form
+                    input(type="hidden", name="product_id", value=product.productID)
+                    input(type="submit", value="Add+")
+                - count = count + 1

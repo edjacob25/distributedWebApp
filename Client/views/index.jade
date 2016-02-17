@@ -1,0 +1,17 @@
+extends header-menu
+block content
+    - products = productArray
+    - var count = 0
+    table
+        each product in products
+            if count % 3 == 0
+                tr
+            td
+                div
+                    h1 #{product.name}
+                    img(src="./"+product.image, alt="./images/no_picture.png")
+                if showLogged
+                    form(method="post", action="cart/addCart")
+                        input(type="hidden", name="product_id", value=product.product_id)
+                        input(type="submit", value="Add+")
+                - count = count + 1
